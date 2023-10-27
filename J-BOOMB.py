@@ -91,7 +91,7 @@ x="XAK"
 user=str(input(f"\n{g}\n \n{w}USERNAME {r}=>{y} "))
 pas=str(input(f"\n{g}\n \n{w}PASSWORD {r}=>{y} "))
 rp= 'Jahidul'
-x = '2477'
+x = 'Yole'
 if 'Jahidul'==user and 'Yole'==pas:
 	Axak(g+"\n\n\t\t      LOGIN SUCCESSFUL")
 	os.system('xdg-open https://www.facebook.com/profile.php?id=100090459211688')
