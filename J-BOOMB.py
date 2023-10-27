@@ -86,25 +86,6 @@ tim=time.strftime('      %I:%M ')
 tim2=time.strftime('%I:%M')
 os.system("clear")
 
-print(logo)
-x="XAK"
-user=str(input(f"\n{g}\n \n{w}USERNAME {r}=>{y} "))
-pas=str(input(f"\n{g}\n \n{w}PASSWORD {r}=>{y} "))
-rp= 'Jahidul'
-x = 'Yole'
-if 'Jahidul'==user and 'Yole'==pas:
-	Axak(g+"\n\n\t\t      LOGIN SUCCESSFUL")
-	os.system('xdg-open https://www.facebook.com/profile.php?id=100090459211688')
-else:
-	Axak(y+"\n\n\t\t      Invalid User Or Pass")
-	Axak(y+"\n\n\t\tContract Admin For User And Pass")
-	os.system("xdg-open https://wa.me/+8801715816273")
-	
-	os.system("python J-BOOMB.py")
-
-x="XAK"
-
-
 tim=time.strftime('      %I:%M ')
 tim2=time.strftime('%I:%M')
 ag2='Mozilla/5.0 (Windows NT 10.0; rv:76.0) Gecko/20100101 Firefox/76.0'
